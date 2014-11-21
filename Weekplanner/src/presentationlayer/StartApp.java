@@ -14,7 +14,7 @@ public class StartApp {
 			{
 				try
 				{
-					StartGuiLeder frame = new StartGuiLeder();
+					MainGui frame = new MainGui();
 					frame.setVisible(true);
 				} catch (Exception e)
 				{

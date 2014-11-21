@@ -21,7 +21,7 @@ public class Person
 	
 	public String autoBrugernavn(String fornavn, String efternavn)
 	{
-		this.brugernavn = 
+		this.brugernavn = brugernavn;
 		return this.brugernavn;
 		
 	}
